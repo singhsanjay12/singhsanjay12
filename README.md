@@ -29,12 +29,6 @@
 
 ---
 
-### 📈 GitHub Stats
-![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhsanjay12&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhsanjay12&layout=compact&theme=radical)
-
----
-
 ### 📚 Recent Highlights
 - 🚀 Building **Trust Bridge** -> a reverse proxy + mTLS + SSO solution for enterprise Zero Trust access control  
 - 🛠 Enabling **LinkedIn’s stateless applications to seamlessly migrate and run on Kubernetes** with optimized routing, scaling, and policy enforcement  
