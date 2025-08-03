@@ -14,6 +14,7 @@
 
 ---
 
+
 ### 🛠 Tech Stack
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -38,6 +39,9 @@
 ---
 
 💬 *"Turning complex infrastructure problems into simple, reliable, and scalable solutions."*
+
+---
+![Profile Views](https://komarev.com/ghpvc/?username=singhsanjay12&label=Profile%20views&color=0e75b6&style=flat)
 
 
 <!---
