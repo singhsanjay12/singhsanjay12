@@ -5,6 +5,7 @@
 ---
 
 ### 🚀 About Me
+💬 *"Turning complex infrastructure problems into simple, reliable, and scalable solutions."*
 - 💻 I currently work on the **Kubernetes Platform team at LinkedIn**, where I help drive our container orchestration strategy by building **controllers, custom schedulers, and developer tooling** to support our internal Kubernetes-based infrastructure  
 - 👀 Passionate about **infrastructure engineering, Kubernetes, reverse proxies, service discovery, load balancing, and Zero Trust security**  
 - 🌱 Currently exploring **access control models**, **cloud-native architectures**, and **large-scale system performance optimization**  
@@ -35,10 +36,6 @@
 - 🛠 Enabling **LinkedIn’s stateless applications to seamlessly migrate and run on Kubernetes** with optimized routing, scaling, and policy enforcement  
 - 🌐 Designed and implemented solutions for **LinkedIn’s reverse proxy for traffic/edge**, powering **all incoming requests to linkedin.com** — including **dynamic routing solutions, service discovery, and client-side load balancing**  
 - 🔒 Implemented **mTLS authorization** & **SSO authentication** for LinkedIn production traffic  
-
----
-
-💬 *"Turning complex infrastructure problems into simple, reliable, and scalable solutions."*
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=singhsanjay12&label=Profile%20views&color=0e75b6&style=flat)
