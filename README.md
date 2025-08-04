@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sanjay Singh (@singhsanjay12)
+# 👋 Hi, I’m Sanjay Singh
 
 💼 **Staff Software Engineer at LinkedIn** with 10+ years of experience building scalable, reliable, and secure distributed systems.
 
